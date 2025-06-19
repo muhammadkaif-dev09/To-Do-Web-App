@@ -99,7 +99,7 @@ const TodoApp = () => {
           <p className="font-medium">❤️ Stay productive and beautiful! ❤️</p>
           <p className="italic">
             All rights reserved by{" "}
-            <a href="https://www.google.com" className="hover:text-red-300">
+            <a href="https://github.com/muhammadkaif-dev09?tab=repositories" className="hover:text-red-300">
               @Kaif Chandiwala
             </a>
           </p>
